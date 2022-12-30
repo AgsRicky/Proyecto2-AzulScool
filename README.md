@@ -9,7 +9,7 @@
 
 [//]:# (Listas no enumeradas)  
 
-### Listas nl enumeradas
+### Listas no enumeradas
 * Index HTML
 * Información.txt
 
