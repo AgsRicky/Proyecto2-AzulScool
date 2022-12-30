@@ -3,13 +3,13 @@
 
 [//] :# (Listas enumeradas)  
 
-###Listas enumeradas
+### Listas enumeradas
 1. Index HTML
 2. Información.txt
 
 [//] :# (Listas no enumeradas)  
 
-###Listas nl enumeradas
+### Listas nl enumeradas
 * Index HTML
 * Información.txt
 
