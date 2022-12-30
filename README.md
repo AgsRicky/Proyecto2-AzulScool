@@ -13,4 +13,4 @@
 * Index HTML
 * Información.txt
 
->Trabaja y sé mejor día con día!
+>Trabaja gustoso y sé mejor día con día!
